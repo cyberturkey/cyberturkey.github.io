@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pixabay.com/photos/typewriter-write-old-vintage-8622984/
+avatar: https://cdn.pixabay.com/photo/2024/03/09/16/59/typewriter-8622984_1280.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
