@@ -5,7 +5,6 @@ tags: [security, 2fa, sim, mobile]
 
 # Can Two-Factor Authentication be Bypassed?
 
-# Can Two-Factor Authentication be Bypassed?
 One of the best things to happen to internet users across the world is the invention of 2FA. The good news is it provides you with an additional layer of security that can be relied upon to an extent. The bad news is hackers are tirelessly devising new methods to breach two-factor authentication. 
 
 So as a user, what is your fate in this cybersecurity dilemma? Are your online accounts still safe from a breach? How should you handle a two-factor authentication bypass? Relax, this article is aimed at addressing these concerns. But first, you need to understand how two-factor authentication works then methods employed to bypass two-factor authentication.
@@ -71,7 +70,7 @@ Authenticator apps are not susceptible to sim swapping because the details in yo
 Well, the answer to that is yes, it does. But there's a way around this. Anonymous mobile numbers can do the trick. An attacker can't perform a sim swap if they don't know any phone number to use. Luckily, secure services don't reveal your phone numbers to cybercriminals.  They only gain access when you share it publicly on social media or other public platforms. This way you're sure to stay hidden from sim swapping attacks. 
 
 
-#Conclusion 
+# Conclusion 
 
 With the knowledge that two-factor authentication can be bypassed, it opens new ways we can try to counteract attacks like this.  SMS-based authentication even though not the best authentication method due to its sim swapping loophole can still be circumvented. Just follow the steps illustrated in this post to set up an app-based one.
 
