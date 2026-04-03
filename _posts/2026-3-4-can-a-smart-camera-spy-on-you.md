@@ -1,7 +1,14 @@
+---
 title: "Can a Smart Camera Spy on You?"
 date: 4/3/2026
-categories: [privacy]
-tags: [camera, iot, privacy]
+categories:
+-privacy
+
+tags:
+-camera
+-iot
+-privacy
+---
 
 # Can a Smart Camera Spy on You?
 
