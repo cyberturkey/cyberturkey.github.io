@@ -10,7 +10,7 @@ Wireless keyboard hacking has become popular. This has prompted many keyboard ma
 Keyboard hacking can be done in these two ways:
 
 
-##Smartphone Sniffing
+## Smartphone Sniffing
 
 Understanding the need for an encrypted keyboard begins with knowing how keyboard hacking is done. Sniffers seek out and grab any traffic you are sending via Bluetooth signals using wireless keyboards. One of the techniques currently gaining popularity is using smartphones for sniffing. You may be working on your laptop in a crowded environment without knowing someone is sniffing on you with a smartphone. Researchers have found that smartphone sensors can pick up the sound waves produced by our keyboard when we type. 
 
@@ -30,7 +30,7 @@ Some wireless keyboards are encrypted between the USB adapter and the keyboard. 
 Keyboards that transmit Bluetooth signals are easily hacked. This is one reason the Logitech wireless keyboard is a preferred option. Some keyboards implement this security option by not using the 2.4GHz range. This, of course, makes them less affordable than conventional keyboards. 
 
 
-##Are Logitech Keyboards Vulnerable to Hacking?
+## Are Logitech Keyboards Vulnerable to Hacking?
 
 Security research published in 2019 exposed sole severity flaws of Logitech wireless keyboard. These flaws, which are doorways to vulnerabilities, are embedded in the USB dongles, otherwise known as receivers, used by Logitech.
 How do attackers exploit this? The vulnerability allows cybercriminals to sniff on the keyboard traffic and, in some cases, inject keystrokes. This is even possible in dongles not connected to a wireless keyboard. Hence, they can take over the computer to which the dongle is connected  to.
