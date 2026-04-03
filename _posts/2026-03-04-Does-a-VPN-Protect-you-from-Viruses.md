@@ -28,11 +28,16 @@ Yes, VPNs are powerful tools for security and privacy, but they don't offer you 
 
 A VPN can't protect you from the following:
 ●	A compromised service: If you're accessing an already compromised service like FTP, SMB, RPC etc., VPN won't protect you from malware. Not all web services and admins adhere to good security practices. This should make you more careful who you give your data to on the internet as they may not be able to manage and store it properly. 
-●	Social engineering attempts: Social engineering is a popular way to steal users' information because they can bypass most security measures in place. They are designed to prey on your good nature or trusting personality. So, trusting the scammer enables them to get past your VPN security features, your firewall, and anti-malware.
+
+●	Social engineering attempts: Social engineering is a popular way to steal users' information because they can bypass most security measures in place. 
+
+They are designed to prey on your good nature or trusting personality. So, trusting the scammer enables them to get past your VPN security features, your firewall, and anti-malware.
 
 Clicking a malicious link, for example, could cause you to download a virus accidentally. There is nothing much a VPN can do in this regard. 
 
-●	Third-Party Personal Information Use Cases: For companies like Facebook or Google, collecting users' information is done with the user's consent. Looking at minimizing your online footprint? Stop using services that require you to give out your private information.
+●	Third-Party Personal Information Use Cases: For companies like Facebook or Google, collecting users' information is done with the user's consent. 
+
+Looking at minimizing your online footprint? Stop using services that require you to give out your private information.
 
 
 ## Do I Need an Antivirus While Using a VPN?
@@ -43,10 +48,20 @@ A VPN would protect your IP address from network traffic sniffing and denial-of-
 
 ## What are Some VPN Weak Points?
 A top-quality VPN offers more safety than a free VPN or no VPN at all. However, even the best providers have weaknesses that cybercriminals can exploit. Common weak points hackers exploit are:
-●	Breaking the encryption key: Most hackers exploit session, encryption, and other access keys. This means VPNs with low encryption standards are more likely to be broken into than stronger ones. For example, DES and Blowfish encryption are older and less secure than RSA or AES.
+
+●	Breaking the encryption key: Most hackers exploit session, encryption, and other access keys. This means VPNs with low encryption standards are more likely to be broken into than stronger ones. 
+
+For example, DES and Blowfish encryption are older and less secure than RSA or AES.
+
 ●	Taking advantage of IP and DNS leaks: While this may not necessarily pass as hacking, it's a common vulnerability in low-quality VPNs. Matched together, your IP address and DNS request can expose a lot about you. These include your physical location and all your online activities.
-●	Steal user logs: The more data a VPN logs about you, the more information available to cybercriminals. Cybercriminals could enter a vulnerable server and steal the logs of users. There have been cases of free VPNs leaving their records and data exposed. The more reason to avoid free VPNs.
-●	Exploit server weaknesses: Some VPNs don't directly own their entire network. Hence, they may rent servers owned and managed by data centers in other regions of the world. Hackers may find routes to infiltrate the network if the VPN fails to oversee how these third-party servers are managed.
+
+●	Steal user logs: The more data a VPN logs about you, the more information available to cybercriminals. Cybercriminals could enter a vulnerable server and steal the logs of users. 
+
+There have been cases of free VPNs leaving their records and data exposed. The more reason to avoid free VPNs.
+
+●	Exploit server weaknesses: Some VPNs don't directly own their entire network. Hence, they may rent servers owned and managed by data centers in other regions of the world. 
+
+Hackers may find routes to infiltrate the network if the VPN fails to oversee how these third-party servers are managed.
 
 # Conclusion 
 A VPN doesn't stop malware from infecting your device. However, those with built-in malware scanners will warn or notify you of malicious websites before entering them. An antivirus and VPN work together to ensure the wholesome safety of your server and device. 
