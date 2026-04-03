@@ -1,7 +1,15 @@
-title: "Can You Be Tracked on Public WiFi?"
+---
+layout: post
+title: "Can You Be Tracked on Public Wifi? What You Need to Know"
 date: 2026-03-04
-categories: [privacy]
-tags: [networking, wifi, privacy, vpn]
+categories:
+  - privacy
+tags:
+  - wifi
+  - vpn
+  - networking
+  - privacy
+---
 
 # Can You Be Tracked on Public Wifi? What You Need to Know
 
