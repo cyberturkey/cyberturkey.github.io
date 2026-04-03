@@ -15,13 +15,14 @@ Cookies are little bits of data that track a user’s browsing habits, sends tha
 
 Cookies allow a Web site to store information on a user's machine and later retrieve it. The pieces of information are stored as name-value pairs.
 
-●	If you type the URL of a Website into your browser, your browser sends a request to the Web site. For example, if you type the URL http://www.amazon.com into your browser, your browser will contact Amazon's server and request its home page.
+-If you type the URL of a Website into your browser, your browser sends a request to the Web site. For example, if you type the URL http://www.amazon.com into your browser, your browser will contact Amazon's server and request its home page.
 
-●	When the browser does this, it will look on your machine for a cookie file that Amazon has set. If it finds an Amazon cookie file, your browser will send all of the name-value pairs in the file to Amazon's server along with the URL. If it finds no cookie file, it will send no cookie data.
+-When the browser does this, it will look on your machine for a cookie file that Amazon has set. If it finds an Amazon cookie file, your browser will send all of the name-value pairs in the file to Amazon's server along with the URL. If it finds no cookie file, it will send no cookie data.
 
-●	Amazon's Web server receives the cookie data and the request for a page. If name-value pairs are received, Amazon can use them.
+-Amazon's Web server receives the cookie data and the request for a page. If name-value pairs are received, Amazon can use them.
 
-●	If no name-value pairs are received, Amazon knows that you have not visited before. The server creates a new ID for you in Amazon's database and then sends name-value pairs to your machine in the header for the Web page it sends. Your machine stores the name-value pairs on your hard disk.
+-If no name-value pairs are received, Amazon knows that you have not visited before. The server creates a new ID for you in Amazon's database and then sends name-value pairs to your machine in the header for the Web page it sends. Your machine stores the name-value pairs on your hard disk.
+
 
 Device location services should be turned off unless actively using it for a service such as navigation. Location services will give off your device physical location which can be retrieved by apps that have location data permissions.
 
@@ -37,11 +38,11 @@ Although the cost is usually free, public wifi isn’t historically isn’t safe
 Many people who aren’t tech savvy, opt for auto-reconnect, save passwords, and ‘remember me’ selections. I love convenience but there is a time and a place; and public wifi is not that place. There are just too many risks.
 
 Additional threats in a  public Wi-Fi environment are:
-●	Rogue access points
-●	Bluetooth attacks
-●	Man-in-the-middle attacks (MITM)
-●	Packet sniffing with Wireshark
-●	Risk of accounts, credit card information, social security numbers being compromised
+-Rogue access points
+-Bluetooth attacks
+-Man-in-the-middle attacks (MITM)
+-Packet sniffing with Wireshark
+-Risk of accounts, credit card information, social security numbers being compromised
 
 
 
@@ -53,9 +54,9 @@ Rogue access points may look like a wi-fi signal on your device that you can con
 Many people get caught up in their lives that they forget to turn off their Bluetooth service. 
 Bluetooth attacks involve Bluejacking, Bluesnarfing, and Bluebugging. These attacks are common on mobile devices:
 
-●	Bluejacking involves sending unsolicited SMS messages to Bluetooth enabled devices. These could appear like a phishing attempt
-●	Bluesnarfing attacks are meant to provide unauthorized access to the devices internal data like texts, widget information, calendar, and contacts to name a few
-●	Bluebugging attacks are intended to provide root access and gain control over the device. There is a lot an attacker can do such as turn the microphone on, taking camera shots, sending texts, and many other tasks. 
+-Bluejacking involves sending unsolicited SMS messages to Bluetooth enabled devices. These could appear like a phishing attempt
+-Bluesnarfing attacks are meant to provide unauthorized access to the devices internal data like texts, widget information, calendar, and contacts to name a few
+-Bluebugging attacks are intended to provide root access and gain control over the device. There is a lot an attacker can do such as turn the microphone on, taking camera shots, sending texts, and many other tasks. 
 
 Bluetooth attacks are common in areas with high foot traffic like a wifi café, bus station, or airport. In addition, near field communication or NFC is a simple technology used widely in touchless payment applications. It is similar to RFID technology and it is easy to intercept by attackers. 
 
@@ -63,11 +64,11 @@ The most common types of data that can be stolen in transit is credit card infor
 For example, when someone is paying for their bar tab at a high end club, they might be using a touchless payment option like Google or Apple pay. These signals can and do get captured. The data is then analyzed for payment information and used illegally.  
 
 Things that you can do to prevent Bluetooth/NFC attacks and interception are:
-●	Turn the Bluetooth function off on your device when not in immediate use
-●	Don’t use the Bluetooth function in public places
-●	Ensure all apps don’t require the Bluetooth permission before installing, and if they do then deny that permission if you decide to install it
-●	Opt for non-touchless payment options like cash and credit cards
-●	Disable NFC, RFID, and Bluetooth settings on all devices especially in public places
+-Turn the Bluetooth function off on your device when not in immediate use
+-Don’t use the Bluetooth function in public places
+-Ensure all apps don’t require the Bluetooth permission before installing, and if they do then deny that permission if you decide to install it
+-Opt for non-touchless payment options like cash and credit cards
+-Disable NFC, RFID, and Bluetooth settings on all devices especially in public places
 
 
 Man-in-the-middle attacks (MITM) are attacks in which the malicious user makes independent connections with the victims and relays messages between them, making them believe that they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker.
@@ -87,21 +88,22 @@ If  using public wi-fi can be avoided, then it should be. There are just too man
 Here are some great tips for cautiously using public wi-fi:  
 
 Don’t conduct business of a sensitive or personal nature on public wi-fi unless you:
-●	Are using a virtual private network (VPN)
-●	Disable auto-connect feature on public networks
-●	Don’t visit any pirating, free media/software content, or any other website that isn’t legitimate 
-●	Masking your machine from network scanners or other detection software
-●	Are absolutely positive that the network you connected to ISN'T a rogue access point, otherwise your VPN traffic won’t mean anything
-●	Have anti-malware tools and scanners ready to deploy if needed
-●	Are familiar with cyber security best practices
-●	Only connect to a website that uses the HTTPS protocol NOT http. (The ‘S’ means that the website is using the http protocol with secure sockets layer or SSL. This makes the website connection secure)
-●	Unless the public wi-fi is using an encryption of at least WPA2, you should not connect to it. (WPA2 is more secure than WEP. You can see what encryption the wi-fi access point is using by looking at the details, see figure 1) 
+1. Are using a virtual private network (VPN)
+2. Disable auto-connect feature on public networks
+3. Don’t visit any pirating, free media/software content, or any other website that isn’t legitimate 
+4. Masking your machine from network scanners or other detection software
+5. Are absolutely positive that the network you connected to ISN'T a rogue access point, otherwise your VPN traffic won’t mean anything
+6. Have anti-malware tools and scanners ready to deploy if needed
+7. Are familiar with cyber security best practices
+8. Only connect to a website that uses the HTTPS protocol NOT http. (The ‘S’ means that the website is using the http protocol with secure sockets layer or SSL. This makes the website connection secure)
+9. Unless the public wi-fi is using an encryption of at least WPA2, you should not connect to it. (WPA2 is more secure than WEP. You can see what encryption the wi-fi access point is using by looking at the details, see figure 1) 
+
 Figure 1  
 
 # Conclusion
 Hopefully, this article has been informative, helpful, and a little scary for you. The threats are real and they are very scary. It is important that we all use cyber security best practice in order to protect out data, systems, and livelihood. 
 Once user awareness has played its part, we will be informed and well equipped to take on the threats that exist.
-https://stock.adobe.com/images/training-webinar-e-learning-skills-business-internet-technology-concept/213594025
+
 
 
 
