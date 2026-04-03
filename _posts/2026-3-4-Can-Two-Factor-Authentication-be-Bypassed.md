@@ -5,13 +5,12 @@ tags: [security, 2fa, sim, mobile]
 
 #Can Two-Factor Authentication be Bypassed?
 
-Meta Description: Cybercriminals can bypass even a two-factor authentication of your online accounts. Need to know more?  Read this!
-Can Two-Factor Authentication be Bypassed?
+#Can Two-Factor Authentication be Bypassed?
 One of the best things to happen to internet users across the world is the invention of 2FA. The good news is it provides you with an additional layer of security that can be relied upon to an extent. The bad news is hackers are tirelessly devising new methods to breach two-factor authentication. 
 
 So as a user, what is your fate in this cybersecurity dilemma? Are your online accounts still safe from a breach? How should you handle a two-factor authentication bypass? Relax, this article is aimed at addressing these concerns. But first, you need to understand how two-factor authentication works then methods employed to bypass two-factor authentication.
 
-How Does two-Factor Authentication work?
+##How Does two-Factor Authentication work?
 To understand how hackers bypass it, you need to have a grasp of how two-factor authentication works. A 2FA, works simpler than it sounds. Ever tried logging into a site and you're asked to provide your username/password and then your number or email for verification?
 
 This process may leave you a little bit exasperated, but this technology benefits the overall protection of your accounts. In the process of verifying your identity, two-factor authentication may require a one-time passcode sent to your phone, email, or authenticator application. If you're able to provide these details, you're granted access to your account.
@@ -20,7 +19,7 @@ So what is the logic in this? Well, you simply can't fake being Mr. Brown when y
 
 This firewall (figuratively), is gradually eroding as hackers have found ways to extract your login details and impersonate you. While cybersecurity experts are working to figure out more secure options, two-factor authentication remains relevant. Understanding your role as a user will even go a long way in keeping it relevant for a much longer time. 
 
-How Can Two-Factor Authentication be Bypassed?
+##How Can Two-Factor Authentication be Bypassed?
 There are several ways hackers bypass two-factor authentication. Some of them are fairly basic, while others may require more sophisticated means. Find out below:
 
 #1: Phishing
