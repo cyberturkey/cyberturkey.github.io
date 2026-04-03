@@ -1,7 +1,15 @@
+---
+layout: post
 title: "Are Logitech Wireless Keyboards Encrypted?"
 date: 2026-03-04
-categories: [security]
-tags: [keyboard, encryption, security, hardware]
+categories:
+  - security
+tags:
+  - keyboard
+  - encryption
+  - security
+  - hardware
+---
 
 # Are Logitech Wireless Keyboards Encrypted?
 
