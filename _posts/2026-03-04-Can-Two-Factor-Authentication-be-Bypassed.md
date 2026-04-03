@@ -1,5 +1,5 @@
 title: "Can Two-Factor Authentication be Bypassed?"
-date: 4/3/2026
+date: 2026-03-04
 categories: [security]
 tags: [security, 2fa, sim, mobile]
 
