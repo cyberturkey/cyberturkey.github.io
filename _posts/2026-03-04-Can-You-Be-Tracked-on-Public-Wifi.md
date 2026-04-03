@@ -1,5 +1,5 @@
 title: "Can You Be Tracked on Public WiFi?"
-date: 4/3/2026
+date: 2026-03-04
 categories: [privacy]
 tags: [networking, wifi, privacy, vpn]
 
