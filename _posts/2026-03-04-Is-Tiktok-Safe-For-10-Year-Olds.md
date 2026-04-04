@@ -9,7 +9,7 @@ tags:
   - privacy
 ---
 
-#Is Tiktok Safe for 10-Year-Olds?
+# Is Tiktok Safe for 10-Year-Olds?
 There are currently many social networks that, as a parent, you should keep track of your child engaging in. Hence, your 10-year old's obsession with the TikTok app is probably one of the things you're scratching your head about.
 While TikTok activity is harmless for the most part, there are serious concerns about underage kids accessing it. Like many other social networks, you have to set up privacy settings to limit your kids' engagement. Because pictures or videos can be posted impulsively, your 10 year old's use of this app needs supervision. 
 
