@@ -59,6 +59,7 @@ When you deactivate your account, it goes into hibernation. All your information
 
 
 ## 3.	Use Signal
+![Signal Messenger](/assets/images/posts/how-to-stay-anonymous-online/signal-message.png)
  
 Signal is an encrypted messaging app that allows users to send text messages, audio calls, voice calls, and voice memos. You may think that it is just like every other messaging app because of its appearance. But, that's not true, as Signal uses encryption that is almost, if not impossible, to brute-force. You may have come across their mantra, "Use Signal, use Tor."
 
@@ -80,6 +81,7 @@ That is not the case with a VPN, as it only shifts traffic from your ISP (at hom
 
 
 ## 5.	Use Tor
+![TOR Browser](/assets/images/posts/how-to-stay-anonymous-online/tor-browser.png)
  
 If you need large, robust, and effective metadata-resistant software, you can never go wrong with Tor. However, you may be concerned about how much anonymity the Tor project can offer. There are some technical limitations to how anonymous you will be online when using Tor. Researchers have not been able to fix this issue successfully.
 
@@ -107,6 +109,7 @@ Sometimes people share details about their lives that do not appear sensitive on
 
 
 ## 8.	Check those app permissions.
+![App Permissions](/assets/images/posts/how-to-stay-anonymous-online/app-permissions.jpg)
  
 Before you sign up on any app, make sure you check the app permissions. Many apps, Android and iOS, ask for more permissions than they need. These apps tend to extract their user's personal information and transmit them back to the makers of the app inappropriately. You recently installed a random app.
 You should ask yourself if the app needs certain permissions. For instance, why does the app need to access your microphone? Will it be recording all your verbal conversations? Some apps ask for permission to access your location. Ask yourself why it needs that information. 
