@@ -39,7 +39,8 @@ Before you can achieve true anonymity, you will need to change a lot of things i
 
 
 ## 1.	Incognito
- 
+![](/assets/images/posts/how-to-stay-anonymous-online/browser-incognito.jpg)
+
 Let us start with the basics! Incognito is one of the easiest privacy options that you can take advantage of. The web browser on your mobile device or laptop has a private browsing mode. Let us consider the most popular browsers globally: Google Chrome, Mozilla Firefox, Internet Explorer, and Safari. You can find these browsers’ incognito modes in their setting's menus.
 
 When you activate private browsing, your browser will stop storing internet history or cookies on your computer. You should know that the uses of this feature are very limited, as it only helps to hide your browsing history from the people around you. Private browsing cannot securely hide your browsing activities or your identity beyond your local machine.
