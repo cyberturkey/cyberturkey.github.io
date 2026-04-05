@@ -6,8 +6,8 @@ permalink: /test/
 
 site.checklists size: {{ site.checklists.size }}
 
-<hr>
-
-{% for item in site.checklists %}
-  - {{ item.title }} → {{ item.url }}<br>
-{% endfor %}
+<ul>
+  {% for item in site.checklists %}
+    <li>{{ item.title }} → {{ item.url | relative_url }}</li>
+  {% endfor %}
+</ul>
