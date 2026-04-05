@@ -1,6 +1,7 @@
 ---
 title: "Incident Response Checklist"
 permalink: /checklists/ir-checklist/
+layout: page
 ---
 
 
