@@ -1,6 +1,7 @@
 ---
 title: "Top 6 Privacy Tips"
 permalink: /guides/top-6-privacy-tips/
+layout: page
 ---
 
 
