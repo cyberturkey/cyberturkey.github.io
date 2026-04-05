@@ -1,0 +1,7 @@
+- name: Guides
+  path: /_guides/
+  icon: fas fa-book
+
+- name: Checklists
+  path: /_checklists/
+  icon: fas fa-check-square
