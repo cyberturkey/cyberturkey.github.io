@@ -1,6 +1,7 @@
 ---
 title: "Camera Security Guide"
 permalink: /guides/camera-security/
+layout: page
 ---
 
 
