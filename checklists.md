@@ -4,7 +4,7 @@ permalink: /checklists/
 layout: page
 ---
 
-# Checklists
+
 
 <ul>
   {% for page in site.checklists %}
