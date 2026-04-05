@@ -171,18 +171,20 @@ collections:
   tabs:
     output: true
     sort_by: order
+
   guides:
     output: true
 
   checklists:
     output: true
+    
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
+      comments: false # Enable comments in posts.
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
@@ -197,7 +199,18 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-
+   - scope:
+      path: ""
+      type: guides
+    values:
+      layout: page
+      permalink: /guides/:title/
+    - scope:
+      path: ""
+      type: checklists
+    values:
+      layout: page
+      permalink: /checklists/:title/
 sass:
   style: compressed
 
