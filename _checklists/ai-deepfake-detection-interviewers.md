@@ -3,6 +3,6 @@ title: "AI Deepfake Detection for Interviewers"
 permalink: /checklists/ai-deepfake-detection-interviewers/
 ---
 
-# AI Deepfake Detection for Interviewers
+<iframe src="/assets/pdf-doc/ai-deepfake-detection-interviewers.pdf" width="100%" height="800" style="border: none;"></iframe>
 
 [Download PDF](/assets/pdf-doc/AI-Deepfake-Detection-interviewers.pdf){: .btn .btn--primary}
