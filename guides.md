@@ -4,7 +4,7 @@ permalink: /guides/
 layout: page
 ---
 
-# Guides
+
 
 <ul>
   {% for page in site.guides %}
