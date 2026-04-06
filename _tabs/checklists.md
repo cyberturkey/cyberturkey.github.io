@@ -16,3 +16,5 @@ This page will hold my checklist articles.
     </div>
   {% endfor %}
 </div>
+
+Note: Clicking a link may download the file automatically depending on your browser.
