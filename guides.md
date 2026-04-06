@@ -4,8 +4,10 @@ permalink: /guides/
 layout: page
 ---
 
-<ul>
+<div class="guides">
   {% for item in site.guides %}
-    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    <div class="guide-item">
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    </div>
   {% endfor %}
-</ul>
+</div>
