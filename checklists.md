@@ -4,10 +4,6 @@ permalink: /checklists/
 layout: page
 ---
 
-<div class="checklist-items">
-  {% for item in site.checklists %}
-    <div class="checklist-item">
-      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-    </div>
-  {% endfor %}
-</div>
+- [AI Deepfake Detection for Interviewers](/checklists/ai-deepfake-detection-interviewers/)
+- [Cyberstalking & Cyberbully Checklist for Families](/checklists/cyberstalking-cyberbully-checklist-for-families/)
+- [Incident Response Checklist](/checklists/ir-checklist/)
