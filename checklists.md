@@ -4,8 +4,10 @@ permalink: /checklists/
 layout: page
 ---
 
-<ul>
+<div class="checklist-items">
   {% for item in site.checklists %}
-    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    <div class="checklist-item">
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    </div>
   {% endfor %}
-</ul>
+</div>
