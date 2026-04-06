@@ -4,6 +4,6 @@ permalink: /checklists/
 layout: page
 ---
 
-- [AI Deepfake Detection for Interviewers](/checklists/ai-deepfake-detection-interviewers/)
-- [Cyberstalking & Cyberbully Checklist for Families](/checklists/cyberstalking-cyberbully-checklist-for-families/)
-- [Incident Response Checklist](/checklists/ir-checklist/)
+<a class="btn btn--primary" href="/checklists/ai-deepfake-detection-interviewers/">AI Deepfake Detection for Interviewers</a>  
+<a class="btn btn--primary" href="/checklists/cyberstalking-cyberbully-checklist-for-families/">Cyberstalking & Cyberbully Checklist for Families</a>  
+<a class="btn btn--primary" href="/checklists/ir-checklist/">Incident Response Checklist</a>
