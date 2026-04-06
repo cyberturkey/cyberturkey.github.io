@@ -4,6 +4,6 @@ permalink: /guides/
 layout: page
 ---
 
-- [Top 6 Privacy Tips](/guides/top-6-privacy-tips/)
-- [Types of Info Attackers Can Exploit](/guides/types-of-info-attackers-can-exploit/)
-- [Camera Security Guide](/guides/camera-security/)
+<a class="btn btn--primary" href="/guides/top-6-privacy-tips/">Top 6 Privacy Tips</a>  
+<a class="btn btn--primary" href="/guides/types-of-info-attackers-can-exploit/">Types of Info Attackers Can Exploit</a>  
+<a class="btn btn--primary" href="/guides/camera-security/">Camera Security Guide</a>
