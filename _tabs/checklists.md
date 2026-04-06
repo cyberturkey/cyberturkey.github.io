@@ -9,6 +9,10 @@ order: 3
 
 This page will hold my checklist articles.
 
-<a class="btn btn--primary" href="/checklists/ai-deepfake-detection-interviewers/">AI Deepfake Detection for Interviewers</a>  
-<a class="btn btn--primary" href="/checklists/cyberstalking-cyberbully-checklist-for-families/">Cyberstalking & Cyberbully Checklist for Families</a>  
-<a class="btn btn--primary" href="/checklists/ir-checklist/">Incident Response Checklist</a>
+<ul class="checklist-list">
+  {% for item in site.checklists %}
+    <li class="checklist-item">
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
