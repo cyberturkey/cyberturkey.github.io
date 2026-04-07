@@ -12,9 +12,6 @@ tags:
 
 # What are the Risks of Online Gaming?
 
-https://stock.adobe.com/images/game-over/220010016
-
-  
 
 Online gaming has become a widely accessed method of playing games. From first-person shooters to MMO games, online gaming is supported on several popular platforms including mobile, console, and PC. With the rise in high-performance gaming systems, screens, and processors, gaming machines are able to support quality multiplayer games.
 
@@ -25,9 +22,6 @@ Although there are risks to online gaming, there are things you can do to lower 
  
 
 ## Gaming platforms, privacy, and security considerations
-
-https://stock.adobe.com/images/padlock-with-infinite-keys-metaphor-of-problems-solutions-and-risk-management-original-3d-rendering/295729789
-
 
 Online gaming is extremely popular and with semi-recent technology, cross-play between consoles and PC’s has become possible. Mobile platforms have received mobile versions of many popular games such as Call of Duty, Fortnite, and Minecraft. 
 
@@ -41,9 +35,6 @@ The threats I am talking about are phishing, IP address leaks, cyber bullying/st
 
 
 # Webcam/mic and IoT 
-
-https://stock.adobe.com/images/identity-theft-protection-scam-concept-cyber-security-cyber-fraud-hacker-attack-security-of-personal-data-and-information-online-surveillance-by-webcam-big-brother/251388030
-
 
 There are a large number of game streamers on platforms such as Twitch, Steam, and YouTube; webcams and mics are heavily used with streams as you have probably seen.. They are also connected to the internet which essentially makes them attack vectors for the bad guys. 
 
@@ -61,9 +52,6 @@ This creates additional security holes because at that point, security is just a
 
 ## Webcam/mic privacy
 
-https://stock.adobe.com/images/webcam-and-laptop/35207125
-
-
 These devices are extremely common in PC and console gamers. This is often an overlooked area as well. An intruder can very well get into your mic and webcam using common offensive hacker tools. There’s so much you can do with these devices; from cyber stalking to eavesdropping, an attacker can havea listen into your personal life real-time.
 
 
@@ -76,8 +64,6 @@ I will footstomp this, update your firmware for your webcams! If your camera is 
 
 
 ## IoT concerns
-
-https://stock.adobe.com/images/smart-home-control-system/115456856
 
 Internet of things or IoT devices include anything that can transmit/receive data through an internet connection. This means your wif-fi cameras in your house that you can control at work through a web interface is an IoT device. Same goes for a smart fridge such as the Samsung Family Hub line. 
 
@@ -95,9 +81,6 @@ One last thing to note about IoT devices is that they have notoriously weak secu
 
 
 # Young gamer privacy overview
-
-https://stock.adobe.com/images/scared-female-teenager-with-computer-laptop-suffering-cyberbullying-and-harassment-being-online-abused/104086734
-
 
 A great many games that are child friendly are readily accessible on mobile devices, consoles, and PC’s; a lot of them free especially on mobile platforms. Because children are unfamiliar with the serious risks of cyber bullying, stalking, and predators, they are unaware that those very threats are persistent and common.
 
@@ -125,10 +108,6 @@ A segway into the personal lives of gamers including children is illegal downloa
 
 ## How to avoid pirated games and avoid malware
 
-https://stock.adobe.com/images/illegal-data-copying-concept-cybercrime-computer-piracy-background-pirate-hat-human-skull-laptop-and-compact-disc-on-a-table/244165515?asset_id=244165503
-
-
-
 Sometimes gamers don't want to pay for games in which case they may download a pirated game or other software; this can be done using torrent websites that are transported via peer-to-peer network (P2P).
 
 
@@ -153,9 +132,6 @@ The best ways to avoid malware from illegal downloads are...
 
 ## Mobile gaming and app security 
 
-https://stock.adobe.com/images/bangkok-thailand-august-26-view-of-female-hands-playing-realm-of-valor-rov-a-moba-game-application-display-on-mobile-screen/297400278
-
-
 Another big concern for younger gamers is mobile gaming. There are several games on the different app stores that are full of malware, developed by countries known for privacy invasion, and are a huge security risk.
 
 
@@ -177,5 +153,3 @@ Some apps to avoid that are known for spreading malware and/or privacy issues an
  
 
 # Stay safe and game on!
-
-https://stock.adobe.com/images/professional-gamers-room-with-ultra-powerful-personal-computer-paused-first-person-shooter-game-on-screen-room-lit-by-neon-lights-in-retro-arcade-style-cyber-sport-championship/215946625
