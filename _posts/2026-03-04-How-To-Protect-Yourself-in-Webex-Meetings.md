@@ -10,7 +10,7 @@ tags:
   - privacy
 ---
 
-# How to Protect Yourself in Webex Meetings
+
 Cisco Webex Meetings is a digital platform that enables workgroups to set up a meeting and collaborate in real-time. What makes Webex meetings stand out is the diverse caliber of users it attracts. Government agencies, as well as educational institutions, are increasingly finding the platform more useful by the day.
 
 Cisco is popular for having a thorough and disciplined approach to its user-based services. This also includes security and privacy. 
