@@ -50,8 +50,11 @@ With the increase in the use of third-party apps in corporate networks, hackers 
 What makes third-party apps vulnerable to attacks is that their unverified standard is easily exploitable. Hence, it is a weak link in the cyber security realm especially in the mobile domain. These apps designed by third-party developers are being targeted, with access to services that deal with trusted data.  
 
 This could include employee data, strategic business plans, or documents. The vulnerability detection tools used by hackers are surprisingly becoming more advanced and automated. The technique used for this new attack include:
+
 ●	The exploitation of app vulnerabilities with API access that is insecure. 
+
 ●	Stealing of sensitive data from apps that fail to adhere to best security practices. 
+
 ●	Gaining unauthorized access to the credentials of the developer through social engineering. 
  
 
@@ -60,11 +63,14 @@ One way to minimize risks from third-party app stores is to avoid them. You can 
 Hence, challenges involving keeping out infection from your device can be overcome this way:
 
 ●	Using mobile security test tools. They check for the safety and cleanliness of the app to be installed. A popular and efficient one is Appknox. It whitelists the mobile apps used in the enterprise. 
+
 ●	Staying away from public Wi-Fi networks. This is because of their vulnerability to malicious sniffing. It's a safe practice for companies to develop acceptable user policies, provide VPNs and connect to users through these channels.
+
 ●	Installing anti-malware tools like Avast, AVG, Bitdefender, Symantec, and so on is one way of keeping your devices safe. This is because, besides other protection practices, antivirus sits on your devices an additional layer of security. 
+
 ●	Researching the app's developer can provide you information on whether they can be trusted or not. It's recommended that you only trust well-known developers and platforms and download from the designated app stores.
+
 ●	Observing the permission the app asks you before downloading it will go a long way to keep you from trouble. This is because some users inadvertently give away certain access to their private portals.
-Learn More about Permissions and Mobile App Security in This Article
 
 
 # Conclusion 
