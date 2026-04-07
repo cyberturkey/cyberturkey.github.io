@@ -11,7 +11,6 @@ tags:
   - privacy
 ---
 
-# Can You Be Tracked on Public Wifi? What You Need to Know
 
 Public Wi-Fi is convenient, fast, and free. In addition, you can usually login without user credentials; you may just have to acknowledge the acceptable use policy statement before connecting. 
 Can you be tracked on public Wifi? The short answer is yes you can! There are several ways a user can be tracked on public Wifi; through cookies, device information, and traffic analysis. There are several things that a user should be aware of when using public Wi-Fi.
