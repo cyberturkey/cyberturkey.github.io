@@ -9,7 +9,8 @@ tags:
   - networking
   - malware
 ---
-# Does a VPN Protect you from Viruses?
+
+
 While a VPN may be crucial to a typical cybersecurity set up, it doesn't protect you against viruses directly. The reason why many users wrongly believe VPNs protect from viruses is due to the results they see. But having a VPN is just one aspect of cybersecurity. Using antivirus, as well as practicing good cyber hygiene, are complementary measures you can adopt to keep yourself safe online.
 
 VPNs keep your network traffic secure and can help you stay safe from cybercriminals. Understanding what a VPN doesn't do will help you cultivate a more informed mindset towards security. For this reason, this article is meant to debunk common myths about VPNs, including their protection against viruses. 
