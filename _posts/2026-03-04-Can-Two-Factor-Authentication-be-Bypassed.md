@@ -11,7 +11,7 @@ tags:
   - mobile
   - authentication
 ---
-# Can Two-Factor Authentication be Bypassed?
+
 
 One of the best things to happen to internet users across the world is the invention of 2FA. The good news is it provides you with an additional layer of security that can be relied upon to an extent. The bad news is hackers are tirelessly devising new methods to breach two-factor authentication. 
 
