@@ -10,8 +10,6 @@ tags:
   - hardware
 ---
 
-# What are the Risks of Online Gaming?
-
 
 Online gaming has become a widely accessed method of playing games. From first-person shooters to MMO games, online gaming is supported on several popular platforms including mobile, console, and PC. With the rise in high-performance gaming systems, screens, and processors, gaming machines are able to support quality multiplayer games.
 
