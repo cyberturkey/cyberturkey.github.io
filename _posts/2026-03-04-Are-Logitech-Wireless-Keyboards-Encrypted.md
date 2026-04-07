@@ -11,7 +11,6 @@ tags:
   - hardware
 ---
 
-# Are Logitech Wireless Keyboards Encrypted?
 
 Wireless keyboard hacking has become popular. This has prompted many keyboard manufacturers to encrypt their wireless keyboard signals with the AES encryption algorithm. And Logitech being at the frontline of wireless keyboard technology, you may wonder what makes it different from other keyboards. Well, the answer is their keyboards are encrypted. But does that deter hackers from devising alternative ways to steal information from your keyboard strokes? Find out in this article.
 
