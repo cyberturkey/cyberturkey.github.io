@@ -16,13 +16,13 @@ Cisco Webex Meetings is a digital platform that enables workgroups to set up a m
 Cisco is popular for having a thorough and disciplined approach to its user-based services. This also includes security and privacy. 
 This article explores several ways to keep your connection secure while on a Webex meeting. The security tools needed to give you seamless audio and video conferencing experience are also highlighted here.
 
-![Browser in incognito mode](/assets/images/posts/how-to-stay-anonymous-online/browser-incognito.png)
+![Browser in incognito mode](/assets/images/posts/how-to-protect-yourself-in-webex-meetings/webex1.png)
 
 
 
  
 ## What Security Features Does Webex Have?
-![Browser in incognito mode](/assets/images/posts/how-to-stay-anonymous-online/browser-incognito.png)
+![Browser in incognito mode](/assets/images/posts/how-to-protect-yourself-in-webex-meetings/webex2.png)
  
 Here are some of the security features of the Webex:
 
