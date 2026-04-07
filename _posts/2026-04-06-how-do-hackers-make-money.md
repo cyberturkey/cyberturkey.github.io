@@ -9,7 +9,7 @@ tags:
   - security
 ---
 
-# How Do Hackers Make Money?
+
 Black hat hackers (criminal hackers) are some of the most notorious people on earth. And since their operations are executed mainly on the internet, where almost everything happens; anyone can be a victim. Surprisingly, as much as you'd like to think you're protected, you may have been a victim at some point in time. This could be through a fake login page, social engineering, or even cookie theft.
 
 There are several ways to earn money as a black hat. Some of them being a hacker for hire; basically an online mercenary. Other ways include stealing credit card information from victims and selling the numbers in the dark web or using a victim’s machine for crypto mining.
