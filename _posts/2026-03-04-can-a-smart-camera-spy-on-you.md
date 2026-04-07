@@ -10,7 +10,6 @@ tags:
   - privacy
 ---
 
-# Can a Smart Camera Spy on You?
 
 Smart cameras can add an extra layer of security to installed alarms or other security systems. As an internet of things (IoT) device, its basic function is to notify a user of activities occurring in areas it's placed like on the property border or at the front door. They are also popular options for working parents who want to watch their kids remotely. The thing that can be a security risk is that the camera feed can be accessed from anywhere in the world.
 The question is, can it go rogue? Can smart cameras or any other IoT device be hacked or compromised, causing them to “spy” on you? Well, like most other smart devices, they definitely can. Considering IoT firmware security, many users are at risk when they install smart devices. Find out in this article why this matters.
